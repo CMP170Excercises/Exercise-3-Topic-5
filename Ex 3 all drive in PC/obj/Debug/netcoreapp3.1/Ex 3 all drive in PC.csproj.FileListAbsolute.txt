@@ -1,0 +1,13 @@
+C:\Users\MyPC\source\repos\Ex 3 all drive in PC\bin\Debug\netcoreapp3.1\Ex 3 all drive in PC.exe
+C:\Users\MyPC\source\repos\Ex 3 all drive in PC\bin\Debug\netcoreapp3.1\Ex 3 all drive in PC.deps.json
+C:\Users\MyPC\source\repos\Ex 3 all drive in PC\bin\Debug\netcoreapp3.1\Ex 3 all drive in PC.runtimeconfig.json
+C:\Users\MyPC\source\repos\Ex 3 all drive in PC\bin\Debug\netcoreapp3.1\Ex 3 all drive in PC.runtimeconfig.dev.json
+C:\Users\MyPC\source\repos\Ex 3 all drive in PC\bin\Debug\netcoreapp3.1\Ex 3 all drive in PC.dll
+C:\Users\MyPC\source\repos\Ex 3 all drive in PC\bin\Debug\netcoreapp3.1\Ex 3 all drive in PC.pdb
+C:\Users\MyPC\source\repos\Ex 3 all drive in PC\obj\Debug\netcoreapp3.1\Ex 3 all drive in PC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC\source\repos\Ex 3 all drive in PC\obj\Debug\netcoreapp3.1\Ex 3 all drive in PC.AssemblyInfoInputs.cache
+C:\Users\MyPC\source\repos\Ex 3 all drive in PC\obj\Debug\netcoreapp3.1\Ex 3 all drive in PC.AssemblyInfo.cs
+C:\Users\MyPC\source\repos\Ex 3 all drive in PC\obj\Debug\netcoreapp3.1\Ex 3 all drive in PC.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\Ex 3 all drive in PC\obj\Debug\netcoreapp3.1\Ex 3 all drive in PC.dll
+C:\Users\MyPC\source\repos\Ex 3 all drive in PC\obj\Debug\netcoreapp3.1\Ex 3 all drive in PC.pdb
+C:\Users\MyPC\source\repos\Ex 3 all drive in PC\obj\Debug\netcoreapp3.1\Ex 3 all drive in PC.genruntimeconfig.cache
